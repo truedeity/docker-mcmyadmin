@@ -112,7 +112,7 @@ docker run -d \
   -e EULA=1 \
   --restart unless-stopped  \
   --stop-timeout 30 \
-  tekgator/docker-mcmyadmin:latest
+  truedeity/docker-mcmyadmin:latest
 ``` 
 
 #### Use with docker-compose:
