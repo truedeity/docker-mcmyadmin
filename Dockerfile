@@ -1,5 +1,4 @@
-FROM openjdk:17-jdk-slim-buster
-
+FROM openjdk:19-jdk-slim
 ARG DEBIAN_FRONTEND="noninteractive"
 
 ENV \

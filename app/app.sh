@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 set -e
 
 MC_SERVICE='./MCMA2_Linux_x86_64'
